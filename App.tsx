@@ -7,8 +7,8 @@ const App = () => {
     <NavigationContainer>
       <Router />
     </NavigationContainer>
-  )
-}
+  );
+};
 
-export default App
+export default App;
 
